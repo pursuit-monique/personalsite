@@ -1,0 +1,78 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="flower" viewBox="0 0 1000 1000" xml:space="preserve">
+
+        <rect x="0" y="0" width="100%" height="100%" fill="none"/>
+        <g transform="matrix(10.2135 0 0 10.2135 500.0007 500.0007)" id="420256">
+        <g style="" vector-effect="non-scaling-stroke">
+                <g transform="matrix(1 0 0 1 0 0)">
+        <rect style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" x="-44.5" y="-43" rx="0" ry="0" width="89" height="86"/>
+        </g>
+        <g id="outerpetals">
+                <g transform="matrix(1 0 0 1 0.1508 -20.7489)">
+        <path style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-44.6508, -22.2511)" d="M 45 44 C 33.7935 44.3346 28.1451 7.22696 33 2.49999 C 38.1662 2.4103 38.0437 4.56561 39.5 4.49999 C 40.8586 1.41118 41.5166 0.526811 42.5 0.499992 C 45.4733 1.01441 46.5717 3.55199 47.5 4.49999 C 48.4283 5.448 47.6994 3.19644 53.5 1.49999 C 59.3006 -0.19646 62.3367 33.8041 45 44 Z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(1 0 0 1 -21.4715 -7.3643)">
+        <path style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-23.0286, -35.6357)" d="M 44.5793 45.1422 C 41.0609 55.7873 4.25924 48.4035 1.47782 42.2246 C 3.16048 37.3393 5.14391 38.1916 5.58034 36.8007 C 3.14248 34.4676 2.53649 33.5468 2.84763 32.6135 C 4.34796 29.9954 7.10817 29.8312 8.3165 29.2831 C 9.52484 28.735 7.15975 28.65 7.54954 22.6189 C 7.93934 16.5879 40.9278 25.3638 44.5793 45.1422 Z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(1 0 0 1 21.5898 -7.5197)">
+        <path style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-66.0898, -35.4803)" d="M 44.7048 45.7984 C 40.5575 35.3821 73.4954 17.3828 79.5978 20.3282 C 81.449 25.1522 79.3818 25.7742 79.9416 27.1203 C 83.3088 27.3405 84.3648 27.6563 84.7264 28.5713 C 85.2599 31.5412 83.251 33.4412 82.6777 34.6378 C 82.1044 35.8344 83.9708 34.3793 87.5489 39.2499 C 91.127 44.1205 60.2154 58.6024 44.7048 45.7984 Z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(1 0 0 1 16.8515 21.4953)">
+        <path style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-61.3516, -64.4954)" d="M 43.9994 45.8399 C 52.369 38.3801 80.5483 63.1755 79.8676 69.9173 C 75.9677 73.3068 74.6762 71.5769 73.6027 72.5633 C 74.5474 75.8028 74.6119 76.9032 73.8758 77.5559 C 71.2674 79.073 68.7949 77.8351 67.4744 77.7056 C 66.1539 77.5761 68.1596 78.8323 64.8065 83.8605 C 61.4534 88.8886 37.2725 64.7943 43.9994 45.8399 Z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(1 0 0 1 -15.8129 22.0056)">
+        <path style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-28.6871, -65.0055)" d="M 44.9592 45.391 C 53.759 52.3381 34.2336 84.3949 27.476 84.8953 C 23.4608 81.6432 24.9401 80.0709 23.7823 79.1851 C 20.7561 80.678 19.6836 80.9325 18.913 80.3209 C 16.966 78.0156 17.7557 75.3657 17.654 74.0428 C 17.5522 72.7199 16.6633 74.9132 11.1293 72.4842 C 5.59533 70.0552 25.1247 42.0577 44.9592 45.391 Z" stroke-linecap="round"/>
+        </g>
+        </g>
+        <g id="innerpetals">
+                <g transform="matrix(0.954 -0.2999 0.2999 0.954 -2.6662 -12.1729)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="12.6212"/>
+        </g>
+                <g transform="matrix(1 0 0 1 0.9269 -14.4764)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="15.6263"/>
+        </g>
+                <g transform="matrix(0.954 0.2999 -0.2999 0.954 4.5457 -12.1729)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+                <g transform="matrix(0.6081 0.7939 -0.7939 0.6081 12.3112 -6.3628)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="12.6212"/>
+        </g>
+                <g transform="matrix(0.342 0.9397 -0.9397 0.342 15.7048 -3.7743)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="15.6263"/>
+        </g>
+                <g transform="matrix(0.0445 0.999 -0.999 0.0445 14.7778 0.4142)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+                <g transform="matrix(0.0445 -0.999 0.999 0.0445 -13.4101 0.4141)">
+        <ellipse style="   stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="12.6212"/>
+        </g>
+                <g transform="matrix(0.342 -0.9397 0.9397 0.342 -14.3458 -3.7502)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="15.6263"/>
+        </g>
+                <g transform="matrix(0.6081 -0.7939 0.7939 0.6081 -10.9434 -6.3629)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+                <g transform="matrix(-0.9236 -0.3835 0.3835 -0.9236 -4.1353 13.4234)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+                <g transform="matrix(-0.766 -0.6428 0.6428 -0.766 -8.3685 12.8784)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="15.6263"/>
+        </g>
+                <g transform="matrix(-0.538 -0.8429 0.8429 -0.538 -9.66 8.7876)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+                <g transform="matrix(-0.538 0.8429 -0.8429 -0.538 10.9337 8.7878)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="12.6212"/>
+        </g>
+                <g transform="matrix(-0.766 0.6428 -0.6428 -0.766 9.6619 12.862)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60607" ry="15.6263"/>
+        </g>
+                <g transform="matrix(-0.9235 0.3835 -0.3835 -0.9235 5.409 13.4235)">
+        <ellipse style=" stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none;   fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="3.60606" ry="12.6212"/>
+        </g>
+        </g>
+
+        </g>
+        </g>
+</svg>
